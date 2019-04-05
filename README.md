@@ -1,6 +1,7 @@
 # BinaryTree
-A simple implementation of a binary tree in c ++ using the concept of object-ordering and templates
-+-----------------------------------------------+
+A simple implementation of a binary tree in c ++ using the concept of object-ordering and templates.<br/>
+<p>
++-----------------------------------------------+<br/>
 |   Binary Tree             |                   |
 |-----------------------------------------------|
 |   NOME                    |   R.A.            |
@@ -19,3 +20,4 @@ A simple implementation of a binary tree in c ++ using the concept of object-ord
 +-----------------------------------------------+
 |   GITHUB |   github.com/JohnataDavi           |
 +-----------------------------------------------+
+</p>
