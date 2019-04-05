@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1536967978 source:c:\users\drumonsters\documents\##Áreas\computação\johnata\binarytree\numero_complexo.cpp
+	<iostream>
+	"Numero_Complexo.h"
+
+1536967342 c:\users\drumonsters\documents\##Áreas\computação\johnata\binarytree\numero_complexo.h
+
+1553794579 source:c:\users\drumonsters\documents\##Áreas\computação\johnata\binarytree\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	"Node.h"
+	"Tree.h"
+
+1553796393 c:\users\drumonsters\documents\##Áreas\computação\johnata\binarytree\node.h
+
+1553796387 c:\users\drumonsters\documents\##Áreas\computação\johnata\binarytree\tree.h
+	"Node.h"
+
+1553796183 source:c:\users\drumonsters\documents\##Áreas\computação\johnata\binarytree\node.cpp
+	<iostream>
+	<string>
+	"Node.h"
+
+1553796203 source:c:\users\drumonsters\documents\##Áreas\computação\johnata\binarytree\tree.cpp
+	<iostream>
+	"Tree.h"
+
+1553863467 source:c:\users\johna\onedrive - universidade federal de itajubá\unifei\3° período\algoritmos e estrutura de dados ii\binarytree\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	"Node.h"
+	"Tree.h"
+
+1553796394 c:\users\johna\onedrive - universidade federal de itajubá\unifei\3° período\algoritmos e estrutura de dados ii\binarytree\node.h
+
+1553863306 c:\users\johna\onedrive - universidade federal de itajubá\unifei\3° período\algoritmos e estrutura de dados ii\binarytree\tree.h
+	"Node.h"
+
+1553796184 source:c:\users\johna\onedrive - universidade federal de itajubá\unifei\3° período\algoritmos e estrutura de dados ii\binarytree\node.cpp
+	<iostream>
+	<string>
+	"Node.h"
+
+1536967978 source:c:\users\johna\onedrive - universidade federal de itajubá\unifei\3° período\algoritmos e estrutura de dados ii\binarytree\numero_complexo.cpp
+	<iostream>
+	"Numero_Complexo.h"
+
+1536967342 c:\users\johna\onedrive - universidade federal de itajubá\unifei\3° período\algoritmos e estrutura de dados ii\binarytree\numero_complexo.h
+
+1553863721 source:c:\users\johna\onedrive - universidade federal de itajubá\unifei\3° período\algoritmos e estrutura de dados ii\binarytree\tree.cpp
+	<iostream>
+	"Tree.h"
+
+1554432004 source:c:\users\johna\desktop\binarytree\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	<cstdio>
+	<fstream>
+	<windows.h>
+	"Node.h"
+	"Tree.h"
+
+1553986953 c:\users\johna\desktop\binarytree\node.h
+
+1554426935 c:\users\johna\desktop\binarytree\tree.h
+	"Node.h"
+
+1554153856 source:c:\users\johna\desktop\binarytree\node.cpp
+	<iostream>
+	<string>
+	<math.h>
+	"Node.h"
+
+1536967978 source:c:\users\johna\desktop\binarytree\numero_complexo.cpp
+	<iostream>
+	"Numero_Complexo.h"
+
+1536967342 c:\users\johna\desktop\binarytree\numero_complexo.h
+
+1554431203 source:c:\users\johna\desktop\binarytree\tree.cpp
+	<iostream>
+	<queue>
+	<list>
+	<cstddef>
+	<typeinfo>
+	<climits>
+	<cfloat>
+	<string>
+	"Tree.h"
+
+1554153856 source:c:\users\johna\desktop\binarytree - copia\node.cpp
+	<iostream>
+	<string>
+	<math.h>
+	"Node.h"
+
+1553986953 c:\users\johna\desktop\binarytree - copia\node.h
+
+1554431203 source:c:\users\johna\desktop\binarytree - copia\tree.cpp
+	<iostream>
+	<queue>
+	<list>
+	<cstddef>
+	<typeinfo>
+	<climits>
+	<cfloat>
+	<string>
+	"Tree.h"
+
+1554426935 c:\users\johna\desktop\binarytree - copia\tree.h
+	"Node.h"
+
+1554432004 source:c:\users\johna\desktop\binarytree - copia\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	<cstdio>
+	<fstream>
+	<windows.h>
+	"Node.h"
+	"Tree.h"
+
