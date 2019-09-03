@@ -1,4 +1,4 @@
-# BinaryTree
+# Binary Tree
 A simple implementation of a binary tree in c ++ using the concept of object-ordering and templates.<br/>
 <p>
    FUNCIONALIDADES: <br/>
