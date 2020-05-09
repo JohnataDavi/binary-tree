@@ -1,5 +1,5 @@
 # Binary Tree
-A simple implementation of a binary tree in c ++ using the concept of object-ordering and templates.<br/>
+Implementation of binary tree using templates in the object-oriented paradigm<br/>
 <p>
    FUNCIONALIDADES: <br/>
    - Inicializa;   <br/>                             
@@ -8,8 +8,6 @@ A simple implementation of a binary tree in c ++ using the concept of object-ord
    - Pesquisa; <br/>                               
    - Imprime (in-order);   <br/>                     
    - Imprime largura;     <br/>                      
-   - Altura.  <br/>                                
-   GITHUB:<br/>
-    github.com/JohnataDavi <br/>
-
+   - Altura.  <br/>
+https://www.geeksforgeeks.org/templates-cpp/                               
 </p>
